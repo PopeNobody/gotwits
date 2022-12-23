@@ -1,4 +1,5 @@
 /data/
-/twit/
+/twit
 tags
 
+node_modules
