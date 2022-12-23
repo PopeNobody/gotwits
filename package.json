@@ -1,0 +1,12 @@
+{
+  "name": "gotwits",
+  "version": "1.0.0",
+  "description": "gotwits",
+  "main": "index.mjs",
+  "author": "nobody",
+  "license": "MIT",
+  "dependencies": {
+    "pg-promise": "^10.15.4",
+    "twit": "^2.2.11"
+  }
+}
